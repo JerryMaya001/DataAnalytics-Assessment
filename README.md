@@ -28,7 +28,11 @@ Per-Question Explanations:
 
 Challenges: At first I could not access the file because MySQL had no local instance. I resolved it by uninstalling and reinstalling MySQL with the local server properly set up.
 
-
+|
+|
+|
+|
+|
 Assessment_Q2.sql
 
 Transaction Frequency Analysis
@@ -44,7 +48,11 @@ Per-Question Explanations: The finance team wants to know how frequents customer
 
 Challenges: I got this error message "ERROR: 2013. Lost connection to MySQL server during query". I resolved this by increasing the Limit of rows on MySQL workbench 
 
-
+|
+|
+|
+|
+|
 Assessment_Q3.sql
 
 Account Inactivity Alert
@@ -56,7 +64,11 @@ Per-Question Explanations: The operation team wants to flag Dormant accounts. Th
 
 Challenges: I noticed that the DATE TIMESTAMP needed to be formatted to just date. I used the DATE function for the formatting
 
-
+|
+|
+|
+|
+|
 Assessment_Q4.sql
 
 Customer Lifetime Value (CLV) Estimation
